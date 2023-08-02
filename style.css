@@ -1,3 +1,4 @@
 .cabeçalho{background-color: #C60909; color:black; display: flex; justify-content: space-around;}
 imagem-logo{width: 200px;}
 .rodape{background-color: black; color:#C60909; display: flex; justify-content: space-around;
+    .site {background-color: white;color: #C60909 rgb(red, green, blue);}
