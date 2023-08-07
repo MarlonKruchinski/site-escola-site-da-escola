@@ -2,3 +2,9 @@
 imagem-logo{width: 200px;}
 .rodape{background-color: black; color:#C60909; display: flex; justify-content: space-around;
     .site {background-color: white;color: #C60909 rgb(red, green, blue);}
+.imagem-comida{width: 180px;height: 130px;}
+.rodape{background-color: black;color: #C60909; display: flex; justify-content: space-around;}
+.comida-div{display: inline-block;}
+.comida{text-align: center; font-weight: 700; font-size: 20px;}
+.comida{text-align: center;}
+.paçoca-çocaçoca{width: 750px; height: 500px;}
